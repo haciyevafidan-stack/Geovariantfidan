@@ -1,0 +1,10 @@
+##fileformat=VCFv4.2
+##reference=GRCh38
+##source=DRAFT_unverified_check_against_ClinVar
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr17	7675088rs28934578	C	T	.	.	.
+chr17	7674220rs11540652	C	T	.	.	.
+chr17	7673802rs28934576	C	T	.	.	.
+chr17	7673776rs28934574	G	A	.	.	.
+chr17	7674229rs28934575	C	T	.	.	.
+chr17	7674859rs121912666	T	C	.	.	.
